@@ -4,3 +4,4 @@ ch03/gd-*.png
 ./labs/lab*/data/
 ./labs/lab*/models/
 ./labs/lab*/log/
+**/*.csv
